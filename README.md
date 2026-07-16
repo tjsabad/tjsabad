@@ -8,7 +8,7 @@
 - Personal Site: [wwww.sabad.co.za](https://www.sabad.co.za)
 - LinkedIn: [linkedin.com/in/timothy-john-sabad](https://linkedin.com/in/timothy-john-sabad)
 - IG: [tjsabad](https://www.instagram.com/tjsabad)
-- VS Code Extension: [Install Commander on VS Code Marketplace 🚀](https://marketplace.visualstudio.com/items?itemName=tjsabad.comander
+- VS Code Extension: [Install Commander on VS Code Marketplace 🚀](https://marketplace.visualstudio.com/items?itemName=tjsabad.comander)
 
 ---
 
